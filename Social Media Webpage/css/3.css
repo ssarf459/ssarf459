@@ -1,0 +1,46 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #2ca9f1;
+}
+
+
+/* Style the header */
+
+.header {
+    background-color: #83e2e2;
+    padding: 20px;
+    text-align: center;
+}
+
+
+/* Style the top navigation bar */
+
+.topnav {
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+/* Style the topnav links */
+
+.topnav a {
+    float: left;
+    display: block;
+    color: #dfd3d3;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+/* Change color on hover */
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+    border-radius: 45px;
+}
