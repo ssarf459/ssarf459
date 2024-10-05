@@ -4,3 +4,5 @@ function sum_of_two_numbers(a, b){
 }
 
 sum_of_two_numbers(4, 5)
+
+// Difficulty: very easy
