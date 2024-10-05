@@ -4,3 +4,5 @@ function convert(minutes){
 }
 
 convert(34);
+
+// Difficulty: very easy
