@@ -1,3 +1,7 @@
+/* 
+Sum of all the multiples of 3 or 5 under 1000
+*/
+
 public class sum_of_multiples {
     public static void sum_of_multiples(int number){
         int sum_of_multiples = 0;
